@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Dashboard-DH-react/static/css/main.86861be7.css",
+    "main.js": "/Dashboard-DH-react/static/js/main.b85ec68e.js",
+    "static/js/787.25d21019.chunk.js": "/Dashboard-DH-react/static/js/787.25d21019.chunk.js",
+    "static/media/mandalorian.jpg": "/Dashboard-DH-react/static/media/mandalorian.6989691dab43d579bf87.jpg",
+    "static/media/jordan-walke.png": "/Dashboard-DH-react/static/media/jordan-walke.aa2b2cc6b2b7cffa850d.png",
+    "static/media/logo-DH.png": "/Dashboard-DH-react/static/media/logo-DH.a7d07b2cb1439e8eac6c.png",
+    "index.html": "/Dashboard-DH-react/index.html",
+    "main.86861be7.css.map": "/Dashboard-DH-react/static/css/main.86861be7.css.map",
+    "main.b85ec68e.js.map": "/Dashboard-DH-react/static/js/main.b85ec68e.js.map",
+    "787.25d21019.chunk.js.map": "/Dashboard-DH-react/static/js/787.25d21019.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86861be7.css",
+    "static/js/main.b85ec68e.js"
+  ]
+}
